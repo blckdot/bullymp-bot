@@ -19,10 +19,11 @@
 
 - Run the bot on your hosting or local machine with **node bot.js** that you have to type on terminal or command line
 ------------
-> If you did everything correct, your server online will be displaying in bot status, ex. - `Watching Server Online: 6/100`
+> If you did everything correct, your server online will be displaying in bot status
+![]()
 ------------
 - Also in your Discord Server  you can create a category named `Server Online:`
 
-- Bot will find a category with that name and change it to your actual server online, ex.  `Server Online: 12/100`
-
+- Bot will find a category with that name and change it to your actual server online
+![](https://i.imgur.com/vIkOf6n.png)
 ------------
