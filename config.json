@@ -1,0 +1,6 @@
+{
+    "token" : "Put_Your_Bot_Token_Here",
+    "prefix" : "!",
+    "serverName": "Put_Your_ServerName_Here",
+    "timerDelayInMinutes": 1
+}
