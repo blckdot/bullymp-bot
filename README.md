@@ -25,5 +25,5 @@
 - Also in your Discord Server  you can create a category named `Server Online:`
 
 - Bot will find a category with that name and change it to your actual server online
-![](https://i.imgur.com/vIkOf6n.png)
+> ![](https://i.imgur.com/vIkOf6n.png)
 ------------
